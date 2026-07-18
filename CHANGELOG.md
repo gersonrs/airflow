@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.7.0](https://github.com/gersonrs/airflow/compare/v1.6.0...v1.7.0) (2026-07-18)
+
+
+### 🚀 New Features
+
+* adjust sometings ([af3c010](https://github.com/gersonrs/airflow/commit/af3c0104905c5b55bb062e553534725740553f5c))
+* adjust sometings ([553bcd9](https://github.com/gersonrs/airflow/commit/553bcd9475d325de75f2cbc3ff6d398ec506e229))
+
 ## [1.6.0](https://github.com/gersonrs/airflow/compare/v1.5.4...v1.6.0) (2026-07-18)
 
 
