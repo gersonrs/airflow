@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.6.0](https://github.com/gersonrs/airflow/compare/v1.5.4...v1.6.0) (2026-07-18)
+
+
+### 🚀 New Features
+
+* update airflow image ([d41f8d4](https://github.com/gersonrs/airflow/commit/d41f8d4564a3909bef28dc8403ae95b641b312cc))
+* update airflow image ([4e2ddb7](https://github.com/gersonrs/airflow/commit/4e2ddb782af2bcff38a1ed47624d10251d9264f6))
+* update workflows ([e058711](https://github.com/gersonrs/airflow/commit/e058711f675e26b24b32c82072227cef84df3396))
+* update workflows ([35fa22c](https://github.com/gersonrs/airflow/commit/35fa22cc4bff07ab8a295ee7ecacdb16b3ac1016))
+
 ## [1.5.4](https://github.com/GersonRS/airflow/compare/v1.5.3...v1.5.4) (2025-03-28)
 
 
