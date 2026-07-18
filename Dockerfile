@@ -14,4 +14,4 @@ USER airflow
 COPY requirements.txt /
 
 RUN uv pip install "apache-airflow[google,apache-spark,apache-kafka,apache-pinot,apache-flink,cncf-kubernetes,celery,git,odbc,mysql,postgres,redis,trino,common-ai,http,grpc,keycloak,jdbc,papermill,amazon]==${AIRFLOW_VERSION}" \
-  --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-3.3.0/constraints-3.12.txt" -r /requirements.txt
+  --constraint "${HOME}/constraints.txt" -r /requirements.txt
