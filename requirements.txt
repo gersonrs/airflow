@@ -8,4 +8,4 @@ imblearn
 seaborn
 minio
 delta-spark
-deltalake[s3]
+deltalake
